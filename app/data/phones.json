@@ -1,0 +1,51 @@
+[
+    {
+        "id": 0, 
+        "title": "Cloud", 
+        "imageUrl": "img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name": "Motorola XOOM\u2122 with Wi-Fi", 
+        "description": "The Next, Next Generation\r\n\r\nExperience the future with Motorola XOOM with Wi-Fi, the world's first tablet powered by Android 3.0 (Honeycomb)."
+    }, 
+    {
+        "id": 1, 
+        "title": "Mobility", 
+        "imageUrl": "img/phones/motorola-xoom.0.jpg", 
+        "name": "MOTOROLA XOOM\u2122", 
+        "snippet": "The Next, Next Generation\n\nExperience the future with MOTOROLA XOOM, the world's first tablet powered by Android 3.0 (Honeycomb)."
+    }, 
+    {
+        "id": 2, 
+        "title": "Analytics", 
+        "imageUrl": "img/phones/motorola-atrix-4g.0.jpg", 
+        "name": "MOTOROLA ATRIX\u2122 4G", 
+        "description": "MOTOROLA ATRIX 4G the world's most powerful smartphone."
+    }, 
+    {
+        "id": 3, 
+        "area": "Collab", 
+        "imageUrl": "img/phones/dell-streak-7.0.jpg", 
+        "name": "Dell Streak 7", 
+        "description": "Introducing Dell\u2122 Streak 7. Share photos, videos and movies together. It\u2019s small enough to carry around, big enough to gather around."
+    }, 
+    {
+        "id": 4, 
+        "title": "samsung-gem", 
+        "imageUrl": "img/phones/samsung-gem.0.jpg", 
+        "name": "Samsung Gem\u2122", 
+        "description": "The Samsung Gem\u2122 brings you everything that you would expect and more from a touch display smart phone \u2013 more apps, more features and a more affordable price."
+    }, 
+    {
+        "id": 5, 
+        "title": "dell-venue", 
+        "imageUrl": "img/phones/dell-venue.0.jpg", 
+        "name": "Dell Venue", 
+        "description": "The Dell Venue; Your Personal Express Lane to Everything"
+    }, 
+    {
+        "id": 6, 
+        "title":"nexus-s", 
+        "imageUrl": "img/phones/nexus-s.0.jpg", 
+        "name": "Nexus S", 
+        "description": "Fast just got faster with Nexus S. A pure Google experience, Nexus S is the first phone to run Gingerbread (Android 2.3), the fastest version of Android yet."
+    }
+]
